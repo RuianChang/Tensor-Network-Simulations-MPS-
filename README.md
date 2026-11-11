@@ -52,7 +52,7 @@ $$
 \mathbb{E}[N_T] = (2N-2)p_T.
 $$
 
-This connects a controllable **non-Clifford gate budget** to the resulting **state magic**. SRE is not itself T-count or a fault-tolerant resource estimate. Studying T-depth, magic-state distillation, and logical overhead would be natural next steps.
+This connects a controllable **non-Clifford gate budget** to the resulting **state magic**. Studying T-depth, magic-state distillation, and logical overhead would be natural next steps.
 
 ## 🛠️ Run the Code
 
